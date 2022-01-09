@@ -40,8 +40,7 @@ public class Application {
 
 
 }
-//https://github.dev/uzillion/custom-web-server/blob/master/WebServer.java
-
 /*
-
+https://www.codeproject.com/Tips/1040097/Create-a-Simple-Web-Server-in-Java-HTTP-Server
+we can probably skip the sockets, I guess
  */
